@@ -1,2 +1,5 @@
 # hello-world
-initial attempt
+
+Hi 
+
+This is an initial attempt. 
